@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0591ca-5ff5-43fb-b62f-eb3946cb9584" name="Changes" comment="kk">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hospital-simu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/DateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/DoctorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/PatientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/SpecialtyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/CRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/ConfigDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/MedicalDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Specialty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DateModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DoctorModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PatientModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SpecialtyModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a0591ca-5ff5-43fb-b62f-eb3946cb9584" name="Changes" comment="Simulacro finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +64,30 @@
       <option name="presentableId" value="Default" />
       <updated>1711992946812</updated>
     </task>
+    <task id="LOCAL-00001" summary="Simulacro finalizado">
+      <option name="closed" value="true" />
+      <created>1712339328315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712339328315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simulacro finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simulacro finalizado" />
   </component>
 </project>
