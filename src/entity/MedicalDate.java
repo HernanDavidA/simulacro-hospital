@@ -1,6 +1,6 @@
 package entity;
 
-public class Date {
+public class MedicalDate {
 
     private int id;
     private int idSpecialty;
@@ -9,10 +9,10 @@ public class Date {
     private String timeDate;
     private String reason;
 
-    public Date() {
+    public MedicalDate() {
     }
 
-    public Date(int id, int idSpecialty, int idPatient, String dayDate, String timeDate, String reason) {
+    public MedicalDate(int id, int idSpecialty, int idPatient, String dayDate, String timeDate, String reason) {
         this.id = id;
         this.idSpecialty = idSpecialty;
         this.idPatient = idPatient;
